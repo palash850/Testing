@@ -1,0 +1,31 @@
+	body{
+    background: url(image/123.jpg) no-repeat;
+    background-size: cover;
+	padding-top:25px;
+
+}	
+.a{
+	position:absolute;
+	left:40%;
+}
+.b{
+	color:#0000ff;
+}
+.c{
+	font-family:Fantasy;
+	color:#0FFF00;
+}
+button{
+ width: 10%;
+ float: center;
+ padding: 7px;
+ padding-left: 5px;  
+ display: block;
+ background-color:#0F8501;
+ position:absolute;
+left:45%;
+}
+h1{
+	font-family:Comic Sans MS;
+	color:#00FFE0;
+}

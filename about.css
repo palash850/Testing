@@ -1,0 +1,37 @@
+body{
+	background: url(image/m1.jpg) no-repeat;
+  	background-size: cover;	
+	color:black;
+}
+.about{
+ height: 100%;
+  width:50%;
+  position: fixed;
+  padding-top: 30px;
+  
+}
+
+.about p{
+	position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color:green;
+  font-family:Bahnschrift Condensed;
+}.about h1{
+	position: absolute;
+  top: 0%;
+  left: 40%;
+}
+
+
+.pic{
+	 height: 10%;
+  width:50%;
+  position: ;
+  padding-top: 30px;
+   float:right;
+}
+
+	

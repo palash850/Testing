@@ -1,0 +1,34 @@
+body{
+	background: url(image/font.jpg) no-repeat;
+	background-attachment:fixed;
+  	background-size: cover;	
+	color:black;
+	position:absolute;
+	left:10%;
+}
+.box{
+ width: 20%;
+ float: left;
+ padding: 7px;
+ padding-left: 10px;  
+ display: block;
+ overflow: hidden;
+ border-radius: 3px;
+ margin:10px 20px 50px 80px;
+}
+.box p{
+	color:black	;
+
+}
+.box button{
+	background-color:#0F8501	;
+
+}
+img{	
+ width: 100%;
+ border-radius: 4px;
+height:200px;
+width:200px;
+
+
+}

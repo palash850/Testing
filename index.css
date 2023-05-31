@@ -1,0 +1,100 @@
+body{	
+	background: url(p4.jpg) no-repeat;
+  	background-size: cover;	
+	color:black;
+}
+
+.menu_list{
+	width: 98%;
+	text-align: right;
+	padding-right: 10px;
+	position:absolute;
+	bottom:90%;
+
+	}
+
+.menu_list nav a{
+	display: inline-block;
+	text-transform: uppercase;
+	list-style: none;
+	letter-spacing: 2px;
+	padding-left: 20px;
+	font-family:Monotype Corsiva;
+}
+.menu_list nav a b{
+	color:#F70000  ;
+}
+.logo img{
+	height: 70px;
+}
+.content1 button{
+	position:absolute;
+	top:70%;
+	left:40%;
+	transform:translate(-50%,-50%);
+	width:200px;
+	height:60px;text-align:center;
+	line-height:60px;
+	color:#fff;
+	font-size:14px;
+	text-direction:none;
+	font-family:sans-serif;
+	box-sizing:border-box;
+	background:linear-gradient(90deg,#03a9f4,#f441a5,#ffeb3b,#03a9f4);
+	background-size:400%;
+	border-radius:30px;
+}
+.content2 button{
+	position:absolute;
+	top:70%;
+	left:60%;
+	transform:translate(-50%,-50%);
+	width:200px;
+	height:60px;text-align:center;
+	line-height:60px;
+	color:#fff;
+	font-size:14px;
+	text-direction:none;
+	font-family:sans-serif;
+	box-sizing:border-box;
+	background:linear-gradient(90deg,#03a9f4,#f441a5,#ffeb3b,#03a9f4);
+	background-size:400%;
+	border-radius:30px;
+}
+.content1 button a{
+	color:black;
+	position:absolute;
+bottom:-30%;
+left:30%;
+}
+.content2 button a{
+	color:black;
+	position:absolute;
+bottom:-30%;
+left:15%;
+}
+.h{
+
+font-style:italic;
+color:blue;
+}
+.a{
+font-size:34px;
+font-weight:bold;
+animation:blinking 3s infinite;#BF30A5
+;
+
+}
+@keyframes blinking{
+0%{
+color:#BF30A5 ;
+}
+40%{
+color:#04F8FC;
+}
+100%{
+color:#EBFA6C 
+}
+22%{
+color:#FC0804;
+}
